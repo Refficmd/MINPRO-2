@@ -1,4 +1,8 @@
-![image](https://github.com/user-attachments/assets/57bd7995-e4c3-4400-9119-9baaf32f6217)# MINPRO-2 CRUD
+#FLOWCHART
+![image](https://github.com/user-attachments/assets/57bd7995-e4c3-4400-9119-9baaf32f6217)
+
+
+# MINPRO-2 CRUD
 ## Muhammad Reffi Fadillah | 2409116034 | Sistem Informasi A
 ## Tema : Rental Kendaraan  
 
